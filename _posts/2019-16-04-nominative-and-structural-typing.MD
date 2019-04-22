@@ -1,3 +1,8 @@
+---
+layout: post
+title:  Nominative and structural typing
+---
+
 This posts idea is to enlighten the concepts of nominative vs structural typing, give some examples, explain the idea and throw in a third idea.
 
 In order to explain what any of those concepts are, we need to understand how a type system works. As explained in [1], type systems must, in general, answer some questions about the relations between types. Examples of those relations are:
