@@ -25,7 +25,9 @@ The word compilation, as stated earlier, defines the process of taking some code
 
 This it the problem with those definitions: they are the freaking same! You are not transpiling from TS to JS. You are not transpiling from Java to Bytecode, neither. You are *compiling* it.  Both terms point to the same process - [input code in #lang] - magic - [translated code], There is not difference that holds at all.
 
-And the problem, as always, is toxic people. The guys that want to know more than you - so they correct you when they say "this high level language is transpiling to this other high level language. You silly cunt*. And yeah, I'm looking at you, reddit and stackoverflow - that's the place where those guys hide, tha's their cave. The term transpilation is defined just so they can show that they know more than you because, for some reason, they *need* that. 
+And the problem, as always, is toxic people. The guys that want to know more than you - so they correct you when they say "this high level language is transpiling to this other high level language. You silly cunt". 
+
+*And yeah, I'm looking at you, reddit and stackoverflow - that's the place where those guys hide, that's their cave. The term transpilation is defined just so they can show that they know more than you because, for some reason, they **need** that.*
 
 Sure, some people may argue that if you output human-readable code, then you are transpiling. That looks like a definition that holds, right? Except it doesn't. At all. Human-readable is yet another term that has no good definition: what about esolangs, such as Iota[4] or brainfuck[5] or any other turing tarpit[6]? What about code-golfing[7] languages? 
 
