@@ -9,7 +9,7 @@ I've been reading a lot in different places the word "transpilation". People are
 
 I'll use the term language in the following article when refering to the language itself (spec) or to it's reference implementation. It should be easy to distinguish them.
 
-## Transpilation in *forums* language
+## Transpilation in *language* forums
 
 People are used to the term *compilation*: that is what they learn at school or maybe after some reading over the web. It is a simple term used by many to define the process of generating a binary application. Back in the day, languages like C, FORTRAN, Algol 60 and so on followed only that approach: taking the source code and spitting out a binary application to be ran on some architecture/SO. (*there are exceptions - lisp[1], for once, was interpreted before it was cool. but I'm talking about industry standarts; mainstream languages*).
 
