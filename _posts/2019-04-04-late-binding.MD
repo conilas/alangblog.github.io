@@ -50,7 +50,7 @@ The idea of Single Dispatch is to base the dynamicity only on one argument: the 
 
 Let's extend our example. We will now have overloaded methods defined in our objects, and this polymorphism will still be based on the types we are working with (GreetSelf, GreeOther and Greet).
 
-```java
+```Java
 abstract class Test{
   public abstract void greet();
   public abstract void greet(Test self);
@@ -95,7 +95,7 @@ class Main {
 
 And our output:
 
-```
+```Java
 Greeting others !
 Greeting other with test... 
 ```
