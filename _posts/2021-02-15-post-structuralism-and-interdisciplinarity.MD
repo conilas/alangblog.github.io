@@ -3,8 +3,6 @@ layout: post
 title:  Post structuralism and interdisciplinarity
 ---
 
-### The call
-
 Recently, as I currently am in my pseudo-pretending intelectual phase (as one would expect from a millenial in their early 20s), I've been reading some content on post-structural philosophy, more specifically Deleuze and Guattari. Yes, I was driven to it by the very fact that it's hard to grasp even a single paragraph of their writtings in an attempt to fullfill an ego I did not realize I had before - and I don't mean a James Strachey translation of Freudian Ego as a piece for constituion of the mind, but a modern western-world-appropriated concept of ego as a reflection of our self worth - and I regret that already, because my brain hurts every day. 
 
 I also came to the conclusion that I need to have some presence online, and that I have superficial knowledge on the two areas now - both compsci and whatever constitutes post-structural philosophy's basis  - so I can pretend to be smart and fullfill this giant hole I have (which I assume to be the aforementioned ego) by getting them together in a post. And this here will be my first attempt.
