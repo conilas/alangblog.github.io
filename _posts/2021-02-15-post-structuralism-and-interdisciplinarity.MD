@@ -52,3 +52,7 @@ You see, even here. Even where you most expect things to be logical, clear, tran
 Wow, what a kick! That means we were able to draw something from philosophy/logic to math and then back to programming?
 
 This is the invitation and the purpose for this blog. Try to merge other areas with compsci, play with the idea. Maybe you are a genius in semiology and want to apply the triad of signs, signifiers and signifieds in programming (wow!). Maybe you are a hardcore cook and composition of food says something about commutativity in computer programs. I don't know! Give it a shot. Compsci has been left alone as an only child for two long.
+
+### Biblio
+
+4 - https://conilas.github.io/depedent-types/
